@@ -1,6 +1,6 @@
 ## Image Finder App
 
-This project consists in a basic image search application, the user enters a search term and a list of images related to the search term are displayed.
+This project consists in a basic image search application, the user enters a search term and makes a request to the unsplash.com api service and a list of images related to the search term are displayed.
 
 ## Built With
 
