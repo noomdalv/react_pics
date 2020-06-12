@@ -11,8 +11,6 @@ This project consists in a basic image search application, the user enters a sea
 
 ![screenshot](./src/misc/ss.jpg)
 
-[Live Demo](https://)
-
 ## Setup instructions
 
 Open a terminal window, go to the location you'd like to add the project and then run the commands below.
